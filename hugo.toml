@@ -1,9 +1,9 @@
 baseURL = "/"
 relativeURLs = true
 
-[deployment]
-    [[deployment.targets]]
-        name = "production"
+# [deployment]
+#     [[deployment.targets]]
+#         name = "production"
 
 
 languageCode = "ru-ru"
