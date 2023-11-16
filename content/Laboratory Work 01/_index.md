@@ -11,7 +11,7 @@ images:
 
 ## Лабораторная работа 01
 
-1. [Excercise 01](laboratory-work-01/01)
-2. [Excercise 02](laboratory-work-01/02)
-3. [Excercise 03](laboratory-work-01/03)
-4. [Excercise 04 - Wheather](laboratory-work-01/04)
+1. [Excercise 01](01)
+2. [Excercise 02](02)
+3. [Excercise 03](03)
+4. [Excercise 04 - Wheather](04)
