@@ -1,5 +1,5 @@
 ---
-title: "Exercise 04"
+title: "Exercise 04 - Wheather"
 date: 2023-11-16T13:42:12Z
 draft: false
 weight: 30
@@ -9,7 +9,7 @@ scripts:
 ---
 
 
-## Exercise 04 - Погода
+## Exercise 04 - Wheather
 
 * Формулировка задачи
 * Моё описание задачи
