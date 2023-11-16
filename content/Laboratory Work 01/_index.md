@@ -14,4 +14,4 @@ images:
 1. [Excercise 01](01)
 2. [Excercise 02](02)
 3. [Excercise 03](03)
-4. [Excercise 04 - Wheather](04)
+4. [Excercise 04 - Wheather](04-wheather)
