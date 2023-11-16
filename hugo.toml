@@ -131,3 +131,8 @@ enableMissingTranslationPlaceholders = false
         "tags",
         "categories",
     ]
+
+[minify]
+    disableCSS = true
+    disableHTML = true
+    disableJS = true
