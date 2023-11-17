@@ -1,5 +1,5 @@
 function loadWeather() {
-    const city = document.getElementById('city-input');
+    const city = document.getElementById('city-input').value;
     const url = `https://wttr.in/${encodeURIComponent(city)}?format=j1`;
 
     fetch(url).then(

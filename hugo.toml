@@ -7,7 +7,7 @@ relativeURLs = true
 
 
 languageCode = "ru-ru"
-DefaultContentLanguage = "erun"
+DefaultContentLanguage = "ru"
 title = "Portfolio"
 theme = "hugo-theme-techdoc"
 
