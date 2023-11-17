@@ -7,7 +7,7 @@ function loadWeather() {
     ).then(data => {
         const currentCondition = data.current_condition[0];
 
-        const html = `<h5>Погода для города "${city.value}"</h5>
+        const html = `<h5>Погода для города "${city}"</h5>
         <ul>
             <li>Время: ${currentCondition.observation_time}</li>
             <li>Температура: ${currentCondition.temp_C}°C (${currentCondition.temp_F}°F)</li>
