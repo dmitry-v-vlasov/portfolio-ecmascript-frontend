@@ -1,6 +1,6 @@
 function loadWeather() {
     const city = document.getElementById('city-input').value;
-    const url = `https://wttr.in/${encodeURIComponent(city)}?format=j1`;
+    const url = `https://wttr.in/${encodeURIComponent(city)}?format=j2`;
 
     fetch(url).then(
         response => response.json()
@@ -13,7 +13,7 @@ function loadWeather() {
             <li>Температура: ${currentCondition.temp_C}°C (${currentCondition.temp_F}°F)</li>
             <li>Влажность: ${currentCondition.humidity} %</li>
         </ul>`;
-        
+
         const wheatherContainer = document.getElementById('weather');
         wheatherContainer.innerHTML = html;
         wheatherContainer.style.display = 'block';
